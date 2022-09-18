@@ -4,9 +4,13 @@
 # Problem Statement : 
 
          1. The major problems that the farmers of our country are currently facing includes Crop Failure, Lack of adequate knowledge, Crop damage due to ignorance/carelessness, Lack of professional assistance, Inaccessibility to agro-tech solutions.
+         
          2. We help them by the following aids We will develop a device that will examine the quality of soil and can also detect crop diseases on scanning the leaves of the crops.
+         
          3. Farmers conventional methods of agricultural cultivation are ineffective. It does not make proper use of all available resources. Farmers are unable to detect crop diseases due to a lack of knowledge and old practices, which often result in soil nutrient deterioration and exhaustion.
+         
          4. As a result, crop failure occurs. Growing only certain crops depletes the soil, and if the crops are harmed by illnesses, farmers are uninformed of how to recover such crops.
+         
          5. Food needs cannot be met until and unless efficient resource management and use is implemented.
 
 # PROJECT IDEA : 
