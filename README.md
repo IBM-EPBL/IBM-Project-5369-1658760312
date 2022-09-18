@@ -1,8 +1,6 @@
  # IBM-Project-5369-1658760312!
 # Fertilizers Recommendation System For Disease Prediction 
 
-![AKASHRAJ S](https://user-images.githubusercontent.com/53815075/190918705-c1ecc3c7-c918-4369-a3a7-a93a86c032fa.jpg)
-
 PROJECT IDEA : 
 Farming is one of the major sectors that influences a country’s economic growth.
 
