@@ -1,5 +1,6 @@
 # Fertilizers Recommendation System For Disease Prediction 
 
+
 # Problem Statement : 
 
          1. The major problems that the farmers of our country are currently facing includes Crop Failure, Lack of adequate knowledge, Crop damage due to ignorance/carelessness, Lack of professional assistance, Inaccessibility to agro-tech solutions.
