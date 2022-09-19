@@ -44,4 +44,8 @@ For the fertilizer recommendation application, the user can input the soil data 
 
 For the last application, that is the plant disease prediction application, the user can input an image of a diseased plant leaf, and the application will predict what disease it is and will also give a little background about the disease and suggestions to cure it.
 
+# Project Architecture 
+
+![189512983-8f4757ef-6f88-4a87-b3c3-9755d09a61e5](https://user-images.githubusercontent.com/53815868/191041111-19ad9c55-cc1f-4e42-b39f-60dc5ddb3331.png)
+
 
