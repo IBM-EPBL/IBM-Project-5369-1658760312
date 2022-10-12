@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/53815868/195385595-f6fd4c5e-5c3f-4230-9edb-fdf6779856a0.png)
+
 # Fertilizers Recommendation System For Disease Prediction 
 
 
